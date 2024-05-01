@@ -1,6 +1,10 @@
-.navContainer {
+/* .navContainer {
     display: flex;
-}
+    padding: 1em;
+} */
+/* div form {
+    justify-content: flex-end;
+} */
 .container {
     padding: 20px 10px;
     margin: 0;
